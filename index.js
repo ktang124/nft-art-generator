@@ -65,8 +65,8 @@ function createImage(idx) {
     const bg = randInt(5);
     const hair = randInt(7);
     const eyes = randInt(9);
-    const nose = randInt(4); 
-    const mouth = randInt(5);
+    const nose = randInt(5); 
+    const mouth = randInt(6);
     const beard = randInt(3);
     // 18,900 combinations
 
