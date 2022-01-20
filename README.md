@@ -10,4 +10,4 @@ See it in action in the [Web3 NFT Tutorial](https://youtu.be/meTpMP0J5E8) on You
 git clone <this-repo>
 npm install
 npm run randos
-```
+````
