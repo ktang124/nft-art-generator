@@ -7,7 +7,7 @@ const network = NETWORK.eth;
 // General metadata for Ethereum
 const namePrefix = "Chick Fillets";
 const description = "Create your own collection of little chick fillets! They aren't just a fillet! They are the whole package!";
-const baseUri = "ipfs://QmRuvWjpdMoKYxwR4j1bSHok8VwzKydqB6mvWcYuo9dtzW";
+const baseUri = "ipfs://QmbsL3yR1qoUy3zZLdUySTSqa78YPKwTFN4aTiaM8pMqHk";
 
 const solanaMetadata = {
   symbol: "YC",
