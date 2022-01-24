@@ -1,0 +1,35 @@
+{
+  "name": "Chick Fillets #18",
+  "description": "Create your own collection of little chick fillets! They aren't just a fillet! They are the whole package!",
+  "image": "ipfs://QmbsL3yR1qoUy3zZLdUySTSqa78YPKwTFN4aTiaM8pMqHk/18.png",
+  "dna": "d466600b7580f197d092beb7906f4dcf5a6ac02b",
+  "edition": 18,
+  "date": 1642792105737,
+  "attributes": [
+    {
+      "trait_type": "backgrounds",
+      "value": "red"
+    },
+    {
+      "trait_type": "body",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "wing",
+      "value": "wing3"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "eye6"
+    },
+    {
+      "trait_type": "beaks",
+      "value": "beak"
+    },
+    {
+      "trait_type": "comb",
+      "value": "comb0"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
